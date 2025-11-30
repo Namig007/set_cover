@@ -15,6 +15,7 @@ then m lines, each describing one set: size of the set followed by the elements 
 
 
 An example of a valid input format is:
+
 5
 
 3
@@ -71,4 +72,5 @@ Where:
 **hard_sat.in** → SAT. I wanted it to run longer but it still finished fast.
 
 All results are matched 
+
 
