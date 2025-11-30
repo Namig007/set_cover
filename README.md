@@ -16,10 +16,15 @@ then m lines, each describing one set: size of the set followed by the elements 
 
 An example of a valid input format is:
 5
+
 3
+
 2
+
 3 1 2 3
+
 2 2 5
+
 2 3 4
 
 where n=5 show our elements (1,2,3,4,5), m=3 number of sets and k=2 the maximum number of sets that we can use (2 sets). The sets are S1 = {1,2,3}, S2 = {2,5}, S3 = {3,4}
@@ -66,3 +71,4 @@ Where:
 **hard_sat.in** → SAT. I wanted it to run longer but it still finished fast.
 
 All results are matched 
+
